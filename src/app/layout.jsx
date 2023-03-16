@@ -1,4 +1,5 @@
 import './globals.css'
+import Head from './head'
 
 export const metadata = {
   title: 'Create Next App',
